@@ -7,7 +7,7 @@ let rickxz = {
     city: 'São Carlos, SP',
     stack: ['Python', 'HTML', 'CSS', 'Javascript', 'MySQL', 'PHP', 'Java'],
     interestedIn: ['Python', 'React', 'CSS', 'JavaScript'],
-    hobbies: ['Anime', 'Gaming', 'Learn new skills']
+    hobbies: ['Anime', 'Gaming']
 };
 ```
 <a href="https://discord.com/users/460202662453837841" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
