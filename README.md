@@ -6,8 +6,8 @@ let rickxz = {
     country: 'Brazil',
     city: 'São Carlos, SP',
     stack: ['Python', 'HTML', 'CSS', 'Javascript', 'MySQL', 'PHP', 'Java'],
-    interestedIn: ['Python', 'HTML', 'CSS', 'JavaScript'],
-    hobbies: ['Anime', 'Gaming']
+    interestedIn: ['Python', 'HTML', 'CSS', 'JavaScript', 'PHP'],
+    hobbies: ['Anime', 'Gaming', 'Programming']
 };
 ```
 <a href="https://discord.com/users/460202662453837841" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -21,7 +21,7 @@ let rickxz = {
 </p>
 
 <p align="left">
-    🌱 I’m currently learning JS
+    🌱 I’m currently learning JSP
 </p>
 
 <h3>🚀 Languages and Tools:</h3>
