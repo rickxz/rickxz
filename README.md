@@ -1,4 +1,4 @@
-<h1 align="center">Hey! I'm Herick! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hey! I'm Herick!</h1>
 
 ```javascript
 let rickxz = {
@@ -13,8 +13,6 @@ let rickxz = {
 <a href="https://discord.com/users/460202662453837841" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 <h3>A little about me:</h3>
-
-<img align="right" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif" width="200px">
 
 <p align="left">
     🔭 I’m currently working on improving my front-end development skills
