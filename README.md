@@ -6,7 +6,7 @@ let rickxz = {
     country: 'Brazil',
     city: 'São Carlos, SP',
     stack: ['Python', 'HTML', 'CSS', 'Javascript', 'MySQL', 'PHP', 'Java'],
-    interestedIn: ['Python', 'HTML', 'CSS', 'JavaScript', 'PHP'],
+    interestedIn: ['Python', 'HTML', 'CSS', 'JavaScript', 'PHP', 'Django'],
     hobbies: ['Anime', 'Gaming', 'Programming']
 };
 ```
@@ -19,7 +19,7 @@ let rickxz = {
 </p>
 
 <p align="left">
-    🌱 I’m currently learning JSP
+    🌱 I’m currently learning JSP and Django
 </p>
 
 <h3>🚀 Languages and Tools:</h3>
@@ -32,6 +32,7 @@ let rickxz = {
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
 </div>
 
 <br><br>
