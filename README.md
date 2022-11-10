@@ -2,7 +2,7 @@
 
 ```javascript
 let rickxz = {
-    age: 17,
+    age: 18,
     country: 'Brazil',
     city: 'São Carlos, SP',
     stack: ['Python', 'HTML', 'CSS', 'Javascript', 'MySQL', 'PHP', 'Java'],
@@ -15,11 +15,11 @@ let rickxz = {
 <h3>A little about me:</h3>
 
 <p align="left">
-    🔭 I’m currently working on improving my front-end development skills
+    🔭 I’m currently working on improving my back-end skills
 </p>
 
 <p align="left">
-    🌱 I’m currently learning JSP and Django
+    🌱 I’m currently learning Django and Docker
 </p>
 
 <h3>🚀 Languages and Tools:</h3>
