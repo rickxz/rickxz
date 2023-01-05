@@ -5,8 +5,8 @@ let rickxz = {
     age: 18,
     country: 'Brazil',
     city: 'São Carlos, SP',
-    stack: ['Python', 'HTML', 'CSS', 'Javascript', 'MySQL', 'PHP', 'Java'],
-    interestedIn: ['Python', 'HTML', 'CSS', 'JavaScript', 'PHP', 'Django'],
+    stack: ['Python', 'HTML', 'CSS', 'Javascript', 'MySQL', 'PHP', 'Java', 'Django', 'Docker'],
+    interestedIn: ['Python', 'Django', 'Docker', 'MongoDB', 'MYSQL'],
     hobbies: ['Anime', 'Gaming', 'Programming']
 };
 ```
@@ -33,7 +33,9 @@ let rickxz = {
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
 </div>
+
 
 <br><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=rickxz&show_icons=true&t&theme=tokyonight">
