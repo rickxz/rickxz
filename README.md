@@ -19,7 +19,7 @@ let rickxz = {
 </p>
 
 <p align="left">
-    🌱 I’m currently learning Django and Docker
+    🌱 I’m currently learning TDD with Python
 </p>
 
 <h3>🚀 Languages and Tools:</h3>
