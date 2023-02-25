@@ -19,7 +19,7 @@ let rickxz = {
 </p>
 
 <p align="left">
-    🌱 I’m currently learning TDD with Python
+    🌱 I’m currently studying Machine Learning
 </p>
 
 <h3>🚀 Languages and Tools:</h3>
