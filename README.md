@@ -35,9 +35,3 @@ let rickxz = {
   <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
 </div>
-
-
-<br><br>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=rickxz&show_icons=true&t&theme=tokyonight">
-
-![Snake animation](https://github.com/rickxz/rickxz/blob/output/github-contribution-grid-snake.svg)
