@@ -5,8 +5,8 @@ let rickxz = {
     age: 18,
     country: 'Brazil',
     city: 'São Carlos, SP',
-    stack: ['Python', 'HTML', 'CSS', 'Javascript', 'MySQL', 'PHP', 'Java', 'Django', 'Docker'],
-    interestedIn: ['Python', 'Django', 'Docker', 'MongoDB', 'MYSQL'],
+    stack: ['Python', 'Django', 'Docker', 'MySQL', 'MongoDB', 'PostgreSQL'],
+    interestedIn: ['Python', 'Django', 'Docker', 'Node.js', 'TypeScript'],
     hobbies: ['Anime', 'Gaming', 'Programming']
 };
 ```
@@ -19,7 +19,7 @@ let rickxz = {
 </p>
 
 <p align="left">
-    🌱 I’m currently studying Machine Learning
+    🌱 I’m currently studying Machine Learning, SOLID, TDD and Node.js
 </p>
 
 <h3>🚀 Languages and Tools:</h3>
