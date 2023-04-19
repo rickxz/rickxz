@@ -19,7 +19,7 @@ let rickxz = {
 </p>
 
 <p align="left">
-    🌱 I’m currently studying Machine Learning, SOLID, TDD and Node.js
+    🌱 I’m currently studying Algorithms and Data Structures
 </p>
 
 <h3>🚀 Languages and Tools:</h3>
