@@ -5,8 +5,8 @@ let rickxz = {
     age: 18,
     country: 'Brazil',
     city: 'São Carlos, SP',
-    stack: ['Python', 'Django', 'Docker', 'MySQL', 'MongoDB', 'PostgreSQL'],
-    interestedIn: ['Python', 'Django', 'Docker', 'Node.js', 'TypeScript'],
+    stack: ['Python', 'Django', 'Docker', 'Node.js', 'TypeScript'],
+    interestedIn: ['Django', 'Docker', 'Node.js', 'TypeScript', 'React'],
     hobbies: ['Anime', 'Gaming', 'Programming']
 };
 ```
@@ -15,11 +15,11 @@ let rickxz = {
 <h3>A little about me:</h3>
 
 <p align="left">
-    🔭 I’m currently working on improving my back-end skills
+    🔭 I’m currently working on improving my full stack development skills
 </p>
 
 <p align="left">
-    🌱 I’m currently studying Algorithms and Data Structures
+    🌱 I’m currently studying Frontend Development
 </p>
 
 <h3>🚀 Languages and Tools:</h3>
@@ -28,11 +28,12 @@ let rickxz = {
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="PostreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
 </div>
 
