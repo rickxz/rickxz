@@ -10,7 +10,8 @@ let rickxz = {
     hobbies: ['Anime', 'Gaming', 'Programming']
 };
 ```
-<a href="https://discord.com/users/460202662453837841" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+
+<a href="https://www.linkedin.com/in/herickvictor/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-7289DA?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <h3>A little about me:</h3>
 
