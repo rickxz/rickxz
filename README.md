@@ -20,7 +20,7 @@ let rickxz = {
 </p>
 
 <p align="left">
-    🌱 I’m currently studying Frontend Development
+    🌱 I’m currently studying Microservices
 </p>
 
 <h3>🚀 Languages and Tools:</h3>
