@@ -2,7 +2,7 @@
 
 ```javascript
 let rickxz = {
-    age: 18,
+    age: 19,
     country: 'Brazil',
     city: 'São Carlos, SP',
     stack: ['Python', 'Django', 'Docker', 'Node.js', 'TypeScript'],
