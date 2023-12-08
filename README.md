@@ -5,8 +5,8 @@ let rickxz = {
     age: 19,
     country: 'Brazil',
     city: 'São Carlos, SP',
-    stack: ['Python', 'Django', 'Docker', 'Node.js', 'TypeScript'],
-    interestedIn: ['Django', 'Docker', 'Node.js', 'TypeScript', 'React'],
+    stack: ['Python', 'Docker', 'Node.js', 'TypeScript', 'React', 'Next.js'],
+    interestedIn: ['Python', 'Django', 'Docker', 'Node.js', 'TypeScript', 'React', 'Next.js'],
     hobbies: ['Anime', 'Gaming', 'Programming']
 };
 ```
@@ -36,6 +36,8 @@ let rickxz = {
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="PostreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+  <img align="center" alt="ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 </div>
 
 <br>
