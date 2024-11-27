@@ -2,10 +2,10 @@
 
 ```javascript
 let rickxz = {
-    age: 19,
+    age: 20,
     country: 'Brazil',
     city: 'São Carlos, SP',
-    stack: ['Python', 'Docker', 'Node.js', 'TypeScript', 'React', 'Next.js'],
+    stack: ['Python', 'Docker', 'Node.js', 'TypeScript', 'React'],
     interestedIn: ['Python', 'Django', 'Docker', 'Node.js', 'TypeScript', 'React', 'Next.js'],
     hobbies: ['Anime', 'Gaming', 'Programming']
 };
@@ -20,7 +20,7 @@ let rickxz = {
 </p>
 
 <p align="left">
-    🌱 I’m currently studying Microservices
+    🌱 I’m currently studying AWS
 </p>
 
 <h3>🚀 Languages and Tools:</h3>
